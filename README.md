@@ -10,7 +10,7 @@ No Dockerfile, nos campos de:
 
 Mude para as Keys que são do seu grupo e encontram-se na console do Cloud One Application Security, em <a href="https://cloudone.trendmicro.com/docs/application-security/groups/"> Group Configuration </a>
 
-Execute o script run-docker
+    - Execute o script ./run-docker.sh
 
 Pronto, o Container com a Aplicação já está disponível para ser usado!
 

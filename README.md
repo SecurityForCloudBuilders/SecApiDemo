@@ -3,7 +3,7 @@ Uma maneira beeem simples de demonstrar segurança ao utilizar APIs!
 
 ## Testar a aplicação
 
-No Dockerfile, nos campos de:
+No script run-docker, nos campos de:
 
     - TREND_AP_KEY=<KEY>
     - TREND_AP_SECRET=<TREND_AP_SECRET>
